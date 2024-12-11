@@ -4,7 +4,6 @@
 
 .data
 	PranMOV	db "Komanda MOV, w= $"
-	Enteris db 13, 10, "$"
 	PranNe	db "Komanda ne MOV registras <--> registras / atmintis", 13, 10, "$"
 	Mnemon  db " mov $"
 	KablTarp db ", $"
